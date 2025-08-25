@@ -1,11 +1,7 @@
-# SCI19 2243: Operating Systems Coursework
+SCI19 2242: Computer and Programming
+This repository contains the laboratory assignments for the SCI19 2242 Computer and Programming course at Suranaree University of Technology.
 
-This repository contains the completed assignments for the **SCI19 2243 Operating Systems** course at Suranaree University of Technology.
+The work in this collection covers fundamental topics in computer programming, focusing on problem-solving and implementation using the Python language.
 
-The projects cover fundamental concepts of operating systems, including virtualization, command-line interfaces, process management, and multithreading.
-
----
-
-## Instructor
-
-* **Anupong Banjongkan**
+Instructor
+Asst. Prof. Dr. Thanakorn Sritharapipat
