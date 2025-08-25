@@ -1,4 +1,4 @@
-#SCI19 3621: Machine Learning
+# SCI19 3621: Machine Learning
 
 This repository contains the laboratory assignments for the **SCI19 3621 Machine Learning** course at Suranaree University of Technology.
 
